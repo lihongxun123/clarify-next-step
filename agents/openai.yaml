@@ -1,0 +1,4 @@
+interface:
+  display_name: "理一理"
+  short_description: "结合已有对话恢复进度、澄清问题或比较方向，确定值得推进的下一步。"
+  default_prompt: "使用 $clarify-next-step，结合当前对话帮我理一理，先区分已确认决定、建议和待定事项，再查证或问关键问题。"
